@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
         <h1>Hello world from me</h1>
-        < Dinner />
+        < Dinner dishName="Karahi"/>
     </div>   
   );
 }
