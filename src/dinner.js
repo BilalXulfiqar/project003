@@ -2,8 +2,8 @@ import React from 'react';
 
 function Dinner(){
 
-    
-   <h1>We have Biryani</h1>
+
+   <h1>We have Kheer</h1>
 
 
 
