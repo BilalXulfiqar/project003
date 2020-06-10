@@ -4,8 +4,9 @@ import Dinner from './dinner.js';
 function App() {
   return (
     <div>
-        <h1>Hello world from me</h1>
+        <h1>Welcome to Sasta Restraunt</h1>
         < Dinner dishName="Chicken Karahi" sweetDish="Kheer" />
+        < Dinner dishName="Biryani" sweetDish="Gajar ka halwa" />
     </div>   
   );
 }
