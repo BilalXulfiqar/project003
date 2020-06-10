@@ -1,9 +1,9 @@
 import React from 'react';
-
+import Dinner from './dinner'
 
 function App() {
   return (
-    <h1>Hello World</h1>
+    < Dinner />
   );
 }
 
